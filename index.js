@@ -2,7 +2,7 @@
 
 readCount = () =>{
    
-   let countDate= new Date('Jan 1,2021 00:00:00').getTime();
+   let countDate= new Date('Jan 1,2022 00:00:00').getTime();
    let now = new Date().getTime();
    let gap = countDate - now;
    let seconds = 1000;
